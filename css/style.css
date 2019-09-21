@@ -1,0 +1,71 @@
+.text-section {
+  background-color: #0e4498;
+  height: 100vh;
+  color: white;
+}
+.image-section {
+  height: 100vh;
+  background-color: #dbd7e2;
+}
+.navbar-section {
+  height: 100vh;
+  background-color: #2a3344;
+}
+h1 {
+  font-size: 5rem;
+  margin-right: -70px;
+  font-family: "Roboto", sans-serif;
+  z-index: 1;
+}
+.first-text {
+  color: #458bf0;
+}
+.logo {
+  color: #458bf0;
+}
+.button {
+  border: 1px solid gray;
+  height: 7%;
+  width: 32%;
+  margin-left: 70px;
+}
+.button-text {
+  color: gainsboro;
+  font-size: 0.6rem;
+}
+.social-icons {
+}
+.cover-image {
+  max-height: 100%;
+  max-width: 103%;
+}
+.buttom {
+  position: absolute;
+  bottom: 0;
+  background-color: white;
+  width: 800px;
+  height: 150px;
+}
+.last-text {
+  color: #838990;
+  font-size: 0.6rem;
+}
+.last-button {
+  font-size: 0.6rem;
+}
+.main-nav {
+  width: 100vh;
+  /* height: 45px; */
+  position: fixed;
+  background: #2a3344;
+  -webkit-transform-origin: left top;
+  -webkit-transform: rotate(-90deg) translateX(-100%);
+}
+ul.nav li {
+  margin-right: 20px;
+  float: right;
+  height: 100vh;
+  line-height: 20px;
+  margin-left: 60px;
+  font-size: 0.5rem;
+}
